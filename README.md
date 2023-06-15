@@ -17,14 +17,6 @@ Some of my interests within the field of engineering include:
 - Back end ,
 - Full Stack .
 
-## Projects
-
-Here are a few projects that showcase my engineering skills:
-
-- [Project 1]: Briefly describe the project and highlight your role and contributions.
-- [Project 2]: Briefly describe the project and highlight your role and contributions.
-- [Project 3]: Briefly describe the project and highlight your role and contributions.
-
 ## Skills
 
 I have gained expertise in the following areas:
